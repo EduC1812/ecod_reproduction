@@ -1,0 +1,5 @@
+pyod==3.6.7
+scikit-learn==1.9.1
+scipy==1.18.1
+numpy
+pandas
